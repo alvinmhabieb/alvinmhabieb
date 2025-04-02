@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alvinmhabieb
-- 👀 I’m interested in Data Analysis and Data Science
+- 👀 I’m interested in Data Analytics, Data Science and Data Engineering
 - 🌱 I’m currently learning Business Intelligence
 - 💞️ I’m looking to collaborate on companies who need data analyst
 - 📫 How to reach me: https://www.linkedin.com/in/alvinmhabieb/
